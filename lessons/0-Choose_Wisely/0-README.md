@@ -6,7 +6,7 @@ You might think you can just dismiss the old text editors but if you ever work o
 
 With respect to the rest of the text editors and IDEs out there, python tutorials or YouTube videos will not be of much help. I've seen video or written materials that want you to use: Atom, VS Code, IDLE, Jupyter Notebook, Text Mate, Komodo, Python's built in REPL (read-evaluate-print loop), ipython and PyCharm. That's not _everything_ out there but it's close.
 
-Here is what I suggest: either VS Code or PyCharm. VSCode is lighter weight; PyCharm is more inclusive and can handle bigger projects as well as virtual environments. If you think you'll have to bite the bullet at some point and learn at least a little vim (hint: you will) both can use vim keybindings -- or not, your choice. They both have free open source community editions and both have paid pro versions.
+Here is what I suggest: either VS Code or PyCharm. VSCode is lighter weight and is backed by Microsoft; PyCharm is more inclusive and can handle bigger projects as well as virtual environments -- and isn't backed by Microsoft. If you think you'll have to bite the bullet at some point and learn at least a little vim (hint: you will) both can use vim keybindings -- or not, your choice. They both have free open source community editions and both have paid pro versions.
 
 But not matter what you pick -- just pick one. After you get good you can change. But there is so much to learn, having fluency in one is going to be very important.
 
