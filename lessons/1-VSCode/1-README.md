@@ -2,9 +2,15 @@
 
 In truth, this could be Lesson 1 with Lesson 0 being something like "Learn To Type", "The Command Line Interface and You", or any of a number of math topics. But we have to assume some sort of familiarity or competency _somewhere_ so this is as good of a spot as any.
 
-For now, Visual Studio Code (or VS Code) is a pretty popular choice for a text editor. It's lightweight, extensible and does most of you might need, plus a lot of what you might not need but could come to. It's used in industry -- Facebook announced [this week](https://www.techspot.com/news/82862-facebook-moving-microsoft-visual-studio-code-internal-development.html) they were switching to VS Code instead of Nuclide (whatever that is) and Emacs(!?!).
+For now, Visual Studio Code (or VS Code) is a pretty popular choice for a text editor. As I mentioned before it's lightweight, extensible and does most of you might need, plus a lot of what you might not need but could come to. It's used in industry -- Facebook announced [this week](https://www.techspot.com/news/82862-facebook-moving-microsoft-visual-studio-code-internal-development.html) they were switching to VS Code instead of Nuclide (whatever that is) and Emacs(!?!).x
 
-Importantly, VS Code has some additional python goodness. So, let's focus on that first. 
+## OK, on to your first assignment
+
+If you know nothing or little about VS Code, [start here](https://github.com/microsoft/vscode-docs/blob/master/docs/getstarted/introvideos.md)
+
+## Speaking of Tweaking
+
+Importantly, VS Code has some additional python goodness. So, let's focus on that first.
 
 - Python (the one from Microsoft)
 - Anaconda Extension Pack
@@ -31,5 +37,3 @@ If you aren't a control freak, [Black](https://github.com/psf/black) kicks ass. 
     All done! ✨ 🍰 ✨
     1 file reformatted.
     ```
-
-
